@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "/home/pieter/projects/java/leetcode/shift2dgridapp:runapp",
+			"script": "app:run",
+			"description": "Runs this project as a JVM application",
+			"group": "application",
+			"project": "app",
+			"buildFile": "/home/pieter/projects/java/leetcode/shift2dgrid/app/build.gradle",
+			"rootProject": "shift2dgrid",
+			"projectFolder": "/home/pieter/projects/java/leetcode/shift2dgrid",
+			"workspaceFolder": "/home/pieter/projects/java/leetcode/shift2dgrid",
+			"args": "",
+			"javaDebug": true,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: app:run"
+		}
+	]
+}
